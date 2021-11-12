@@ -74,6 +74,8 @@ Trebuie sa fim de acord cu cateva lucruri:
 flutter doctor --android-licenses
 ```
 
+![Flutter Doctor](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/flutterdoc.png)
+
 si sa vedem ca totul este in regula:
 
 ```
