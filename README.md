@@ -24,13 +24,15 @@ Ionic a apărut în 2013 cu prima sa versiune de Drifty Co. Ionic a ajutat dezvo
 
 ### Android Studio
 
+![Studio Install](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/ainstall.png)
+
 Dupa ce am instalat Android Studio impreuna cu Android Virtual Device, vom instala SDK cu versiunea de Android dorita si Command-line Tools care va permite interactiunea cu flutter.
 
-[Android Sdk](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/sdk.png)
+![Android Sdk](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/sdk.png)
 
 Urmatorul pas e sa construim un mediu virtual Android
 
-[Android Avd](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/avd.png)
+![Android Avd](https://raw.githubusercontent.com/c4xp/Devops03/master/assets/avd.png)
 
 ### Chocolatey
 
